@@ -14,6 +14,7 @@
 		87F26FB91CCEFAE7001468D5 /* LateralSpreads.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 87F26FB71CCEFAE7001468D5 /* LateralSpreads.xcdatamodeld */; };
 		87F26FBB1CCEFAE8001468D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87F26FBA1CCEFAE8001468D5 /* Assets.xcassets */; };
 		87F26FBE1CCEFAE8001468D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87F26FBC1CCEFAE8001468D5 /* LaunchScreen.storyboard */; };
+		87F26FC71CCEFBFD001468D5 /* LeftViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 87F26FC61CCEFBFD001468D5 /* LeftViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		87F26FBA1CCEFAE8001468D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		87F26FBD1CCEFAE8001468D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		87F26FBF1CCEFAE8001468D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87F26FC51CCEFBFD001468D5 /* LeftViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftViewController.h; sourceTree = "<group>"; };
+		87F26FC61CCEFBFD001468D5 /* LeftViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				87F26FAF1CCEFAE7001468D5 /* AppDelegate.m */,
 				87F26FB11CCEFAE7001468D5 /* ViewController.h */,
 				87F26FB21CCEFAE7001468D5 /* ViewController.m */,
+				87F26FC51CCEFBFD001468D5 /* LeftViewController.h */,
+				87F26FC61CCEFBFD001468D5 /* LeftViewController.m */,
 				87F26FB41CCEFAE7001468D5 /* Main.storyboard */,
 				87F26FBA1CCEFAE8001468D5 /* Assets.xcassets */,
 				87F26FBC1CCEFAE8001468D5 /* LaunchScreen.storyboard */,
@@ -153,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				87F26FB31CCEFAE7001468D5 /* ViewController.m in Sources */,
+				87F26FC71CCEFBFD001468D5 /* LeftViewController.m in Sources */,
 				87F26FB01CCEFAE7001468D5 /* AppDelegate.m in Sources */,
 				87F26FB91CCEFAE7001468D5 /* LateralSpreads.xcdatamodeld in Sources */,
 				87F26FAD1CCEFAE7001468D5 /* main.m in Sources */,
